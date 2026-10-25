@@ -1,5 +1,5 @@
 export const appMarkup = `
-<header><p class="eyebrow">STARCRAFT II · BANK EDITOR</p><h1>극한 벽짓고 살아남기<br>세이브 편집기</h1><p>게임을 종료하고 원본 파일을 백업한 뒤 사용하세요.</p></header>
+<header><h1>세이브 편집기</h1><p>게임을 종료하고 원본 파일을 백업한 뒤 사용하세요.</p></header>
 <aside class="notice">파일은 브라우저에서만 처리되며 서버로 전송되지 않습니다.</aside>
 <section class="card"><h2>파일 열기</h2><label class="drop" id="drop">.SC2Bank 파일을 선택하거나 이곳에 끌어놓으세요<input id="file" type="file" accept=".SC2Bank"></label><p id="error" class="error" role="alert"></p></section>
 <section class="card"><h2>저장 경로 안내</h2><label>내 계정 폴더 (Battle.net 숫자)<input id="account" placeholder="예: 87654321"></label><p class="path" id="path"></p></section>
