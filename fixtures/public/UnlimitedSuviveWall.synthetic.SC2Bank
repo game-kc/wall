@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Data">
+        <Key name="Data8">
+            <Value int="18547" />
+        </Key>
+        <Key name="Data3">
+            <Value int="18545" />
+        </Key>
+        <Key name="Data1">
+            <Value int="16" />
+        </Key>
+        <Key name="Data10">
+            <Value int="0" />
+        </Key>
+        <Key name="Data7">
+            <Value int="18544" />
+        </Key>
+        <Key name="Data6">
+            <Value int="13" />
+        </Key>
+        <Key name="Data2">
+            <Value int="3900" />
+        </Key>
+        <Key name="Data12">
+            <Value int="0" />
+        </Key>
+        <Key name="PS">
+            <Value int="20120278" />
+        </Key>
+        <Key name="Data9">
+            <Value int="1220341" />
+        </Key>
+        <Key name="Data5">
+            <Value int="11" />
+        </Key>
+        <Key name="Data11">
+            <Value int="0" />
+        </Key>
+        <Key name="Data4">
+            <Value int="39" />
+        </Key>
+    </Section>
+    <Signature value="05ECA3F623714C0795ED0BFC43526B5CA909AA03" />
+</Bank>

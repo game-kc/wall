@@ -1,0 +1,33 @@
+{
+  "bankName": "UnlimitedSuviveWall",
+  "authorId": "3-S2-1-1910618",
+  "userId": "3-S2-1-1234567",
+  "source": {
+    "level": 16,
+    "currentXp": 3900,
+    "playCount": 39,
+    "clearCount": 11,
+    "ps": 20120278,
+    "signature": "05ECA3F623714C0795ED0BFC43526B5CA909AA03"
+  },
+  "cases": [
+    {
+      "label": "레벨 24 XP 3900",
+      "level": 24,
+      "currentXp": 3900,
+      "expected": {
+        "ps": 30180267,
+        "signature": "6F0F7EC27E8FEC10E691BA2B84A6A126DBEDF65B"
+      }
+    },
+    {
+      "label": "레벨 24 XP 0",
+      "level": 24,
+      "currentXp": 0,
+      "expected": {
+        "ps": 30180205,
+        "signature": "C6E6F8D1D8AABFEAFA1A22AF1D5515C54E2397BA"
+      }
+    }
+  ]
+}
